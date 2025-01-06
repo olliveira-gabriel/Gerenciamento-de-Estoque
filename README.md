@@ -48,5 +48,5 @@ Praticando Programação Orientada a Objetos (POO) em Python. O projeto permite 
     <li>Finalizar Sistema</li>
 </ol>
 
-
+<img src="caminho/para/sua/imagem.jpg" alt="Descrição da imagem" width="600">
 
